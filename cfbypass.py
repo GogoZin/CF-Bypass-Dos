@@ -12,6 +12,7 @@ print(Fore.YELLOW + """
 | |___|  _|   | |_) || | |  __/ ___ \ ___) |__) |
  \____|_|     |____/ |_| |_| /_/   \_\____/____/
 """)
+print("Code By GogoZin -2019/8/12")
 
 def opth():
 	for a in range(thr):
